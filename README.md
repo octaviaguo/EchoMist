@@ -3,7 +3,7 @@
 This repo contains the code and data for our preprint: <a href="https://arxiv.org/abs/2503.09598">How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation</a>.
 
 <p align="center">
-  <img src="figures/illustration_horizon.png" width="60%" height="60%">
+  <img src="figures/illustration_horizon.png" width="70%" height="70%">
 </p>
 
 ## Data
