@@ -6,8 +6,9 @@ This repo contains the code and data for our preprint: <a href="https://arxiv.or
   <img src="figures/illustration_horizon.png" width="70%" height="70%">
 </p>
 
-## Data
-Code and data coming soon!
+## News 🔥
+[2025/03/27] We have released the initial version of our data on <a href="https://huggingface.co/datasets/ruohao/EchoMist">Hugging Face</a>. The code will be released soon in the coming weeks.
+
 
 ## Citation
 If our work inspires you, please consider citing our paper:
