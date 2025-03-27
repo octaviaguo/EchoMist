@@ -1,5 +1,7 @@
 # EchoMist
 
+[![HuggingFace](https://img.shields.io/badge/🤗-Dataset-E87948.svg)](https://huggingface.co/datasets/ruohao/EchoMist) &nbsp;&nbsp; [![Paper](https://img.shields.io/badge/arXiv-paper-b31b1b)](https://arxiv.org/abs/2503.09598) &nbsp;&nbsp;
+
 This repo contains the code and data for our preprint: <a href="https://arxiv.org/abs/2503.09598">How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation</a>.
 
 <p align="center">
